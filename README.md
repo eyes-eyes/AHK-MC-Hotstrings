@@ -44,6 +44,7 @@ Here is a table containing all the variables and corresponding strings to them:
 | `MCBlackStones`       | "blackstone, gilded blackstone, chiseled blackstone, polished blackstone, polished blackstone bricks, cracked polished blackstone bricks, " | 6          |
 | `MCObbies`            | "obsidian, crying obsidian, " | 2          |
 | `MCFungi`             | "red mushroom, brown mushroom, warped fungus, crimson fungus, " | 4          |
+| `MCDirts`             | "dirt, grass block, farmland, dirt path, podzol, snowy grass block, rooted dirt, coarse dirt, mycelium, " | 9          |
 | `MCminerals`          | "diamond, iron ingot, iron nugget, gold ingot, gold nugget, redstone, charcoal, coal, lapis lazuli, emerald, quartz, " | 11         |
 | `MCOres`              | "Coal Ore, Iron Ore, Redstone Ore, Lapis Lazuli Ore, Gold Ore, Diamond Ore, Emerald Ore, Copper Ore, " | 8          |
 | `MCBlockOres`         | "Block of Coal, Block of Iron, Block of Redstone, Block of Lapis Lazuli, Block of Gold, Block of Emerald, Block of Diamond, Block of Copper, " | 8          |
