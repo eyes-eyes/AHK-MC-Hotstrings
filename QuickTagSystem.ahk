@@ -65,6 +65,7 @@ MCObbies := "obsidian, crying obsidian, "
 ; MCObby := "obsidian, "
 MCFungi := "red mushroom, brown mushroom, warped fungus, crimson fungus, "
 MCDirts := "dirt, grass block, farmland, dirt path, podzol, snowy grass block, rooted dirt, coarse dirt, mycelium, "
+MCSands := "sand, red sand, soul sand, suspicious sand, "
 
 MCminerals := "diamond, iron ingot, iron nugget, gold ingot, gold nugget, redstone, charcoal, coal, lapis lazuli, emerald, quartz, "
 MCOres := "Coal Ore, Iron Ore, Redstone Ore, Lapis Lazuli Ore, Gold Ore, Diamond Ore, Emerald Ore, Copper Ore, "
@@ -329,6 +330,9 @@ Paste(MCFungi)
 Return
 ::]mcdirts::
 Paste(MCDirts)
+Return
+::]mcsands::
+Paste(MCSands)
 Return
 
 ::]mcminerals::
