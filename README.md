@@ -129,8 +129,8 @@ Here is a table containing all hotstrings:
 | `]mcblackstones`        | `MCBlackStones`                       |
 | `]obbies`               | `MCObbies`                            |
 | `]mcobbies`             | `MCObbies`                            |
-| `]obby`                 | `obsidian,`                           |
-| `]obi`                  | `obsidian,`                           |
+| `]obby`                 | "obsidian, "                          |
+| `]obi`                  | "obsidian, "                          |
 | `]mcfungi`              | `MCFungi`                             |
 | `]mcminerals`           | `MCminerals`                          |
 | `]ores`                 | `MCOres`                              |
