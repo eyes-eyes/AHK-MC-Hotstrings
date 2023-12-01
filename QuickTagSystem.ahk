@@ -90,6 +90,11 @@ Swords := "diamond sword, iron sword, gold sword, stone sword, wooden sword, "
 Hoes := "diamond hoe, iron hoe, gold hoe, stone hoe, wooden hoe, "
 Pickaxes := "diamond pickaxe, iron pickaxe, gold pickaxe, stone pickaxe, wooden pickaxe, "
 
+MCHelmets := "diamond helmet, iron helmet, gold helmet, chainmail helmet, leather helmet, leather cap, "
+MCChestplates := "diamond chestplate, iron chestplate, gold chestplate, chainmail chestplate, leather chestplate, leather tunic, "
+MCLeggings := "diamond leggings, iron leggings, gold leggings, chainmail leggings, leather leggings, leather pants, "
+MCBoots := "diamond boots, iron boots, gold boots, chainmail boots, leather boots, "
+
 ;------------------------------------------------------------------------------
 ; Function to paste words corresponding to phrases
 ;------------------------------------------------------------------------------
@@ -111,34 +116,6 @@ Return
 ; The phrases - the main list
 ; Type ']' character then phrase to automatically replace with words
 ;------------------------------------------------------------------------------
-::]mctools::
-Paste(MCTools)
-Return
-::]netheritetools::
-Paste(NetheriteTools)
-Return
-::]diamondtools::
-Paste(DiamondTools)
-Return
-::]diatools::
-Paste(DiamondTools)
-Return
-::]goldtools::
-Paste(GoldTools)
-Return
-::]irontools::
-Paste(IronTools)
-Return
-::]stonetools::
-Paste(StoneTools)
-Return
-::]woodtools::
-Paste(WoodenTools)
-Return
-::]woodentools::
-Paste(WoodenTools)
-Return
-
 ::]mcarmors::
 Paste(MCArmors)
 Return
@@ -167,27 +144,34 @@ Return
 Paste(WoodenTools)
 Return
 
-::]tools::
-Paste(Tools)
+::]mctools::
+Paste(MCTools)
 Return
-::]axes::
-Paste(Axes)
+::]netheritetools::
+Paste(NetheriteTools)
 Return
-::]shovels::
-Paste(Shovels)
+::]diamondtools::
+Paste(DiamondTools)
 Return
-::]swords::
-Paste(Swords)
+::]diatools::
+Paste(DiamondTools)
 Return
-::]hoes::
-Paste(Hoes)
+::]goldtools::
+Paste(GoldTools)
 Return
-::]pickaxes::
-Paste(Pickaxes)
+::]irontools::
+Paste(IronTools)
 Return
-::]picks::
-Paste(Pickaxes)
+::]stonetools::
+Paste(StoneTools)
 Return
+::]woodtools::
+Paste(WoodenTools)
+Return
+::]woodentools::
+Paste(WoodenTools)
+Return
+
 
 ::]mcsaplings::
 Paste(MCSaplings)
@@ -373,4 +357,39 @@ Paste(MCTables)
 Return
 ::]mcblockplants::
 Paste(MCBlockPlants)
+Return
+
+::]tools::
+Paste(Tools)
+Return
+::]axes::
+Paste(Axes)
+Return
+::]shovels::
+Paste(Shovels)
+Return
+::]swords::
+Paste(Swords)
+Return
+::]hoes::
+Paste(Hoes)
+Return
+::]pickaxes::
+Paste(Pickaxes)
+Return
+::]picks::
+Paste(Pickaxes)
+Return
+
+::]mchelmets::
+Paste(MCHelmets)
+Return
+::]mcchestplates::
+Paste(MCChestplates)
+Return
+::]mcleggings::
+Paste(MCLeggings)
+Return
+::]mcboots::
+Paste(MCBoots)
 Return

@@ -89,13 +89,6 @@ Here is a table containing all hotstrings:
 | `]ironarmor`           | `IronArmor`      |
 | `]chainmailarmor`      | `ChainmailArmor` |
 | `]leatherarmor`        | `LeatherArmor`   |
-| `]tools`               | `Tools`          |
-| `]axes`                | `Axes`           |
-| `]shovels`             | `Shovels`        |
-| `]swords`              | `Swords`         |
-| `]hoes`                | `Hoes`           |
-| `]pickaxes`            | `Pickaxes`       |
-| `]picks`               | `Pickaxes`       |
 | `]mcsaplings`          | `MCSaplings`     |
 | `]saplings`            | `MCSaplings`     |
 | `]logs`                | `MCLogs`         |
@@ -155,3 +148,15 @@ Here is a table containing all hotstrings:
 | `]villagerworkstations`| `VillagerWorkstations` |
 | `]mctables`            | `MCTables`       |
 | `]mcblockplants`       | `MCBlockPlants`  |
+| `]tools`               | `Tools`          |
+| `]axes`                | `Axes`           |
+| `]shovels`             | `Shovels`        |
+| `]swords`              | `Swords`         |
+| `]hoes`                | `Hoes`           |
+| `]pickaxes`            | `Pickaxes`       |
+| `]picks`               | `Pickaxes`       |
+| `]mchelmets`           | `MCHelments`     |
+| `]mcchestplates`       | `MCChestplates`  |
+| `]mcleggings`          | `MCLeggings`     |
+| `]mcboots`             | `MCBoots`        |
+
