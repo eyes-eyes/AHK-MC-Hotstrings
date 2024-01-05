@@ -154,6 +154,7 @@ Here is a table containing all hotstrings:
 | `]hoes`                | `Hoes`           |
 | `]pickaxes`            | `Pickaxes`       |
 | `]picks`               | `Pickaxes`       |
+| `]armors`              | `Armors`         |
 | `]mchelmets`           | `MCHelments`     |
 | `]mcchestplates`       | `MCChestplates`  |
 | `]mcleggings`          | `MCLeggings`     |

@@ -90,10 +90,12 @@ Swords := "diamond sword, iron sword, gold sword, stone sword, wooden sword, "
 Hoes := "diamond hoe, iron hoe, gold hoe, stone hoe, wooden hoe, "
 Pickaxes := "diamond pickaxe, iron pickaxe, gold pickaxe, stone pickaxe, wooden pickaxe, "
 
+Armors := "helmet, chestplate, leggings, boots, "
 MCHelmets := "diamond helmet, iron helmet, gold helmet, chainmail helmet, leather helmet, leather cap, "
 MCChestplates := "diamond chestplate, iron chestplate, gold chestplate, chainmail chestplate, leather chestplate, leather tunic, "
 MCLeggings := "diamond leggings, iron leggings, gold leggings, chainmail leggings, leather leggings, leather pants, "
 MCBoots := "diamond boots, iron boots, gold boots, chainmail boots, leather boots, "
+
 
 ;------------------------------------------------------------------------------
 ; Function to paste words corresponding to phrases
@@ -378,6 +380,9 @@ Return
 Paste(Pickaxes)
 Return
 
+::]armors::
+Paste(Armors)
+Return
 ::]mchelmets::
 Paste(MCHelmets)
 Return
