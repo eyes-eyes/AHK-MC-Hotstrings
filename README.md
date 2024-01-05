@@ -81,7 +81,6 @@ Here is a table containing all hotstrings:
 | `]woodtools`           | `WoodenTools`    |
 | `]woodentools`         | `WoodenTools`    |
 | `]mcarmors`            | `MCArmors`       |
-| `]armors`              | `MCArmors`       |
 | `]netheritearmor`      | `NetheriteArmor` |
 | `]diamondarmor`        | `DiamondArmor`   |
 | `]diaarmor`            | `DiamondArmor`   |

@@ -119,9 +119,6 @@ Return
 ::]mcarmors::
 Paste(MCArmors)
 Return
-::]armors::
-Paste(MCArmors)
-Return
 ::]netheritearmor::
 Paste(NetheriteArmor)
 Return
